@@ -8,6 +8,8 @@
   src: "https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css"
 }
 
+*{font-family:LXGW WenKai}
+
 main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
