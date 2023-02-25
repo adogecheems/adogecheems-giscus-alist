@@ -3,6 +3,11 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
+@font-face{
+  font-family: LXGW WenKai
+  src: "https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css"
+}
+
 main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
